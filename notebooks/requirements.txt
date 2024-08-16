@@ -1,0 +1,7 @@
+prophet
+ipywidgets
+plotly
+kaleido
+openmeteo-requests
+requests-cache
+retry-requests
